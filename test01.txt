@@ -1,0 +1,6 @@
+'/mnt/ags/labeled/gdg/78.jpg'
+'/mnt/ags/labeled/gdg/123.jpg'
+'/mnt/ags/labeled/kgjjw/27.jpg'
+'/mnt/ags/labeled/kgjjw/45.jpg'
+'/mnt/ags/labeled/kgjjw/48.jpg'
+'/mnt/ags/labeled/ggsghah/74.jpg'
